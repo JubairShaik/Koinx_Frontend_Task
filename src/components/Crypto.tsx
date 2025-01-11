@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, JSX } from "react";
 import axios from "axios";
 import TradingViewWidget from "./TradingViewWidget";
 import img from "../assets/btc.png";
